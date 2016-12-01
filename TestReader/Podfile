@@ -1,0 +1,9 @@
+# Uncomment this line to define a global platform for your project
+platform :ios, '9.0'
+use_frameworks!
+target 'TestReader' do
+
+
+pod 'Alamofire', '~> 3.4.0'
+
+end
